@@ -32,10 +32,12 @@ export default class EndScreen extends React.Component {
                 <h2 id={'Thanks'}>Thank you for participating</h2>
                 <p id={'UID'}>{`User ID: ${uID}`}</p>
                 <p>Your results are below</p>
-                {this.props.showSubmitButton
-                    ? submitButton
+                {this.props.showSubmitButton ? submitButton
                     : this.props.submissionStatusObject}
-
+            
+                <p>Please complete the following exit questionnaire</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScTHNxcAx3Avxyldl-AHG9RzCZThL8jNWGqVLkMA9i8HCxIZg/viewform"> Here</a>
+                               
                 <table>
                     <thead>
                         <tr key={'header'}>

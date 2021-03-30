@@ -1,6 +1,6 @@
 # SENG411 Assignment 2
 
-You can view the experiment at: "https://sharonumute.github.io/SENG411-HCI-Experiment"
+You can view the experiment at: "https://richabhute.github.io/seng411a2/"
 
 ## Running the code
 
