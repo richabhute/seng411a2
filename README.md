@@ -1,5 +1,5 @@
 # SENG411 Assignment 2
-By Paria Naghavi and Sharon Umute
+By Paria Naghavi and Sharon Umute.
 Used and Editted by Richa Bhute and Mona Soleimanieh
 
 You can view the experiment at: "https://richabhute.github.io/seng411a2/"
