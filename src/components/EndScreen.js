@@ -36,7 +36,7 @@ export default class EndScreen extends React.Component {
                     : this.props.submissionStatusObject}
             
                 <p>Please complete the following exit questionnaire</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScTHNxcAx3Avxyldl-AHG9RzCZThL8jNWGqVLkMA9i8HCxIZg/viewform"> Here</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScTHNxcAx3Avxyldl-AHG9RzCZThL8jNWGqVLkMA9i8HCxIZg/viewform">here</a>
                                
                 <table>
                     <thead>
